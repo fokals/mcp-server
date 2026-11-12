@@ -1,5 +1,7 @@
 # Fokals MCP server
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/fokals/mcp-server/badge)](https://scorecard.dev/viewer/?uri=github.com/fokals/mcp-server)
+
 Market & Company Intelligence for AI agents: what companies will likely adopt next, company health, buying signals and market feeds, from technology, hiring and funding data.
 
 Fokals is a hosted MCP server. Add it to VS Code, GitHub Copilot, Claude, ChatGPT, Cursor or any client that supports the Model Context Protocol, and ask about any company or any market. There is nothing to install: this repository describes the server and how to connect to it.
